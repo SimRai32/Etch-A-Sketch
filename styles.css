@@ -1,0 +1,36 @@
+div.container{
+    display: flex;
+    max-width: 960px;
+    max-height: 960px;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: auto;
+}
+
+
+div{
+    border:black solid 1px ;
+    padding: 0;
+    background-color: white;
+    float: left;
+    margin: 0;
+    min-width: 0;
+    min-height: 0;   
+}
+
+
+.ender{
+    clear:left;
+    padding: 0;
+}
+
+
+button{
+    display:flex;
+    padding: 3.5px 8px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(255, 0, 0, 0.137);
+    
+}
+
+
